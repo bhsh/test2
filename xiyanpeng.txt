@@ -9,4 +9,5 @@ master add main function
 master add main function2
 add first branch
 add first branch2
+add merge function1
 
